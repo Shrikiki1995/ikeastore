@@ -1,0 +1,8 @@
+4.5.2023, 19:21:44 	 Router /api/furnitures2 not found
+----------------------------
+4.5.2023, 19:22:05 	 Router /api/furnitures2 not found
+----------------------------
+4.5.2023, 19:22:28 	 Router /api/furnitures2 not found
+----------------------------
+4.5.2023, 19:30:27 	 request.body is not a function
+----------------------------
