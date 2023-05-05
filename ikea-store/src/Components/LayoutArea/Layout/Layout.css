@@ -1,5 +1,4 @@
 .Layout {
 	display: grid;
-    grid-template-rows: 20% 20% 50% 10%;
-    height: 100%;
+    grid-template-rows: 20% 20% auto 10%;
 }

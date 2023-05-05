@@ -7,7 +7,7 @@ import furnituresRouter from "./6-controllers/furnitures-controller";
 
 const server = express()
 
-server.use(cors({ "origin": appConfig.frontEndUrl }))
+server.use(cors())
 
 server.use(express.json())
 

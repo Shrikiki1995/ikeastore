@@ -6,6 +6,8 @@ html,
   margin: 0 0;
 }
 body{
+  height: 100vh;
+
   background-image: url(https://images.pexels.com/photos/326333/pexels-photo-326333.jpeg?cs=srgb&dl=pexels-pixabay-326333.jpg&fm=jpg);
   background-repeat:no-repeat;
   background-size: cover;

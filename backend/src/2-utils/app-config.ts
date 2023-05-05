@@ -10,7 +10,7 @@ class DevelopmentConfig extends AppConfig {
     public password = ""
     public database = "ikeastore"
     public port = "3001"
-    public frontEndUrl = `http://localhost:${this.port}`
+    public frontEndUrl = `http://localhost:3000/`
 }
 class ProductionConfig extends AppConfig {
     public isDevelopment = false

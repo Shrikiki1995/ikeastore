@@ -1,3 +1,9 @@
 .ProductCard {
-	
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    border-radius: 20%;
+    
+    padding: 10px;
+
 }
