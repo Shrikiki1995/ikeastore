@@ -1,0 +1,11 @@
+.Manu {
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+.Manu a {
+    color: aliceblue;
+}
