@@ -1,9 +1,8 @@
 .ProductCard {
     display: flex;
     flex-direction: column;
-    background-color: aqua;
     border-radius: 20%;
-    
-    padding: 10px;
-
+    border:  1px solid black;
+    font-size: small;
+    padding: 5px;
 }

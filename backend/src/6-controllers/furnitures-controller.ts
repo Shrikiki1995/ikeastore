@@ -1,8 +1,17 @@
-import express, { NextFunction, Request, Response } from "express";
+import express, { NextFunction, Request, Response, response } from "express";
 import furnituresLogics from "../5-logic/furnitures-logics";
 import FurnitureModel from "../4-models/furnitures-model";
 
 const router = express.Router()
+
+router.get("/furnitures-types", async (request: Request, response: Response, next: NextFunction) => {
+    try {
+        const furnitureTypes = await furnituresLogics.getAllFurnitureType()
+        response.json(furnitureTypes)
+    } catch (err: any) {
+
+    }
+})
 
 router.get("/furnitures", async (request: Request, response: Response, next: NextFunction) => {
     try {
