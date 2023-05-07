@@ -21,6 +21,7 @@ class FurnitureService {
 
     // Post New Furniture
     public async AddNewFurniture(furniture: FurnitureModel): Promise<void> {
+        console.log(furniture.furnitureTypeId)
         await axios.post<FurnitureModel>(appConfig.getFurnituresUrl, furniture)
     }
 }

@@ -24,13 +24,7 @@ async function getAllFurnitures(): Promise<FurnitureModel> {
 
 async function addFurniture(furniture: FurnitureModel): Promise<FurnitureModel> {
     const sql = `
-    INSERT INTO furnitures 
-    (furnitureId,
-        furnitureTypeId,
-        furnitureSize,
-        furnitureColor,
-         furniturePrice)
-          VALUES (NULL, ?, ?, ?, ?);
+    INSERT INTO furnitures (furnitureId, furnitureTypeId ,furnitureSize,furnitureColor,furniturePrice)VALUES (NULL, ?, ?, ?, ?);
     `
     const info: OkPacket = await dal.execute(sql, [furniture.furnitureTypeId, furniture.furnitureSize, furniture.furnitureColor, furniture.furniturePrice])
     furniture.furnitureId = info.insertId

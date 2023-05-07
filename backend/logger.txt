@@ -8,3 +8,69 @@
 ----------------------------
 5.5.2023, 10:58:17 	 Router /favicon.ico not found
 ----------------------------
+7.5.2023, 11:29:03 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeastore`.`furnitures`, CONSTRAINT `furnitures_ibfk_1` FOREIGN KEY (`furnitureTypeId`) REFERENCES `furnituretype` (`furnitureTypeId`))
+----------------------------
+7.5.2023, 11:29:23 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeastore`.`furnitures`, CONSTRAINT `furnitures_ibfk_1` FOREIGN KEY (`furnitureTypeId`) REFERENCES `furnituretype` (`furnitureTypeId`))
+----------------------------
+7.5.2023, 11:31:41 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeastore`.`furnitures`, CONSTRAINT `furnitures_ibfk_1` FOREIGN KEY (`furnitureTypeId`) REFERENCES `furnituretype` (`furnitureTypeId`))
+----------------------------
+7.5.2023, 11:32:54 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeastore`.`furnitures`, CONSTRAINT `furnitures_ibfk_1` FOREIGN KEY (`furnitureTypeId`) REFERENCES `furnituretype` (`furnitureTypeId`))
+----------------------------
+7.5.2023, 12:26:06 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeastore`.`furnitures`, CONSTRAINT `furnitures_ibfk_1` FOREIGN KEY (`furnitureTypeId`) REFERENCES `furnituretype` (`furnitureTypeId`))
+----------------------------
+7.5.2023, 12:26:16 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeastore`.`furnitures`, CONSTRAINT `furnitures_ibfk_1` FOREIGN KEY (`furnitureTypeId`) REFERENCES `furnituretype` (`furnitureTypeId`))
+----------------------------
+7.5.2023, 12:28:09 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeastore`.`furnitures`, CONSTRAINT `furnitures_ibfk_1` FOREIGN KEY (`furnitureTypeId`) REFERENCES `furnituretype` (`furnitureTypeId`))
+----------------------------
+7.5.2023, 12:28:22 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeastore`.`furnitures`, CONSTRAINT `furnitures_ibfk_1` FOREIGN KEY (`furnitureTypeId`) REFERENCES `furnituretype` (`furnitureTypeId`))
+----------------------------
+7.5.2023, 12:29:36 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeastore`.`furnitures`, CONSTRAINT `furnitures_ibfk_1` FOREIGN KEY (`furnitureTypeId`) REFERENCES `furnituretype` (`furnitureTypeId`))
+----------------------------
+7.5.2023, 12:29:38 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeastore`.`furnitures`, CONSTRAINT `furnitures_ibfk_1` FOREIGN KEY (`furnitureTypeId`) REFERENCES `furnituretype` (`furnitureTypeId`))
+----------------------------
+7.5.2023, 12:29:46 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeastore`.`furnitures`, CONSTRAINT `furnitures_ibfk_1` FOREIGN KEY (`furnitureTypeId`) REFERENCES `furnituretype` (`furnitureTypeId`))
+----------------------------
+7.5.2023, 12:30:54 	 ER_BAD_NULL_ERROR: Column 'furnitureTypeId' cannot be null
+----------------------------
+7.5.2023, 12:30:57 	 ER_BAD_NULL_ERROR: Column 'furnitureTypeId' cannot be null
+----------------------------
+7.5.2023, 12:35:30 	 ER_BAD_NULL_ERROR: Column 'furnitureTypeId' cannot be null
+----------------------------
+7.5.2023, 12:36:50 	 ER_BAD_NULL_ERROR: Column 'furnitureTypeId' cannot be null
+----------------------------
+7.5.2023, 12:39:58 	 ER_BAD_NULL_ERROR: Column 'furnitureTypeId' cannot be null
+----------------------------
+7.5.2023, 12:40:17 	 ER_BAD_NULL_ERROR: Column 'furnitureTypeId' cannot be null
+----------------------------
+7.5.2023, 12:40:58 	 ER_BAD_NULL_ERROR: Column 'furnitureTypeId' cannot be null
+----------------------------
+7.5.2023, 12:41:14 	 ER_BAD_NULL_ERROR: Column 'furnitureTypeId' cannot be null
+----------------------------
+7.5.2023, 12:42:51 	 ER_BAD_NULL_ERROR: Column 'furnitureTypeId' cannot be null
+----------------------------
+7.5.2023, 12:42:54 	 ER_BAD_NULL_ERROR: Column 'furnitureTypeId' cannot be null
+----------------------------
+7.5.2023, 12:43:22 	 ER_BAD_NULL_ERROR: Column 'furnitureTypeId' cannot be null
+----------------------------
+7.5.2023, 12:43:22 	 ER_BAD_NULL_ERROR: Column 'furnitureTypeId' cannot be null
+----------------------------
+7.5.2023, 12:43:33 	 ER_BAD_NULL_ERROR: Column 'furnitureTypeId' cannot be null
+----------------------------
+7.5.2023, 12:43:59 	 ER_BAD_NULL_ERROR: Column 'furnitureTypeId' cannot be null
+----------------------------
+7.5.2023, 12:43:59 	 ER_BAD_NULL_ERROR: Column 'furnitureTypeId' cannot be null
+----------------------------
+7.5.2023, 12:44:10 	 ER_BAD_NULL_ERROR: Column 'furnitureTypeId' cannot be null
+----------------------------
+7.5.2023, 12:44:31 	 ER_BAD_FIELD_ERROR: Unknown column 'DEAFULT' in 'field list'
+----------------------------
+7.5.2023, 12:44:32 	 ER_BAD_FIELD_ERROR: Unknown column 'DEAFULT' in 'field list'
+----------------------------
+7.5.2023, 12:44:55 	 ER_BAD_FIELD_ERROR: Unknown column 'DEAFULT' in 'field list'
+----------------------------
+7.5.2023, 12:46:22 	 ER_BAD_FIELD_ERROR: Unknown column 'DEAFULT' in 'field list'
+----------------------------
+7.5.2023, 12:46:28 	 ER_BAD_FIELD_ERROR: Unknown column 'DEAFULT' in 'field list'
+----------------------------
+7.5.2023, 12:46:57 	 ER_BAD_FIELD_ERROR: Unknown column 'DEAFULT' in 'field list'
+----------------------------
